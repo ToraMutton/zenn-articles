@@ -3,7 +3,7 @@ title: "アロー関数でオブジェクトを返すときの ({}) って何者
 emoji: "📦"
 type: "tech"
 topics: ["javascript", "typescript"]
-published: false
+published: true
 ---
 
 # アロー関数でオブジェクトを返すときの `({})` って何者？
